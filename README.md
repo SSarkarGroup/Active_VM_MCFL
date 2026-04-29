@@ -78,3 +78,8 @@ While some variables are passed through command-line arguments, many core physic
 * **`parser.py`**: File parsing utilities for geometry, vertices, and edges.
 * **`periodic_hex_lattice_diff.py`, `grid.py`, `trace_periodic.py`**: Grid generation logic for creating the initial periodic hexagonal lattice.
 * **`tissue_plot.py`**: Plot the vertex model tissue.
+
+## Simulation Snapshot
+
+![snapshot](snapshot.jpg)
+
